@@ -1,0 +1,5 @@
+jdk:
+  - openjdk11
+
+android:
+  build-command: ./gradlew clean assembleRelease
